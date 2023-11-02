@@ -14,3 +14,5 @@ All matters related to a claim that an asset owner would do when attempting to r
 
 ## Policy
 The cover items as risk, a policy which is a legal agreement between the insured and the insurer, outlines the scope and extent of the restoration.  Policies have a lifecycle and terminology, so in this section, we will dive into the details.
+
+Refresh for 11/23

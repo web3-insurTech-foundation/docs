@@ -12,3 +12,5 @@ In addition, the Policy establishes the payment terms, the cancellation terms an
 youtube
 
 # State Diagram
+
+Refresh for 11/23

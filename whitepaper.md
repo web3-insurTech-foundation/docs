@@ -20,3 +20,5 @@ Insurance too, however, has become large and complicated.  Not because it wants 
 
 At its core, its 400 years old, well at least for the Western Civilization version.  Fundamentally, it hasn't changed much in those 400 years, it is still a process of matching risk and return and throwing the dice to Fate.
 
+
+Refresh for 11/23

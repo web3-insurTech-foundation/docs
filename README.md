@@ -17,3 +17,5 @@ If you would like to contribute more, please, we welcome your contributions.
 The best way to contribute is to follow the poen source model, create a branch, commit and make a pull request.  Our moderators are most always around to review and discuss. There are no bad ideas, we are simply trying to stop bad actors from contaminating our work (regrettably)
 
 So, please, jump in, we know you have something to say
+
+Refresh for 11/23
