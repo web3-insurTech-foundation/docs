@@ -1,5 +1,5 @@
 # KYC/AML Discussion and Feedback
-In this seciton, we will discuss the implementation of the Know Your Client / Anti-Money Laundering (KYC/AML) regulations
+In this section, we will discuss the implementation of the Know Your Client / Anti-Money Laundering (KYC/AML) regulations
 
 This content supports the work done by the Regulatory working group, particularly the KYC/AML group.
 
